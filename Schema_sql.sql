@@ -6,7 +6,7 @@ CREATE TABLE employees (
     gender      VARCHAR(1) 		NOT NULL,
     hire_date   DATE            NOT NULL,
     PRIMARY KEY (emp_no)
-)
+);
 
 CREATE TABLE departments (
     dept_no     VARCHAR(4)         NOT NULL,
