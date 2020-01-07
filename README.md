@@ -1,4 +1,4 @@
-**SQL Database**
+**SQL Data base**
 
 In this assignment, I created tables to hold data from the 6 CSV files, imported the CSVs into a SQL database, and answer questions about the data. In other words, we performed:
 
