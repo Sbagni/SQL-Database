@@ -1,6 +1,6 @@
 --List the following details of each employee: employee number, last name, first name, gender, and salary.
 
-SELECT e
+SELECT emp
 .last_name, e.first_name, e.gender,s.salary
 FROM salaries AS s
 INNER JOIN employees AS e ON
